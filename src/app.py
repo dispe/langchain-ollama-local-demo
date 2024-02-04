@@ -4,8 +4,9 @@
 # https://blog.langchain.dev/langgraph/
 
 # Resources:
+# - https://www.youtube.com/watch?v=bupx08ZgSFg - I've adapted the code to work with the local Ollama server
+# - https://github.com/alejandro-ao/chat-with-websites
 # - https://github.com/ollama/ollama/blob/main/docs/tutorials/langchainpy.md
-# - https://www.youtube.com/watch?v=bupx08ZgSFg
 
 from re import M
 from time import sleep
